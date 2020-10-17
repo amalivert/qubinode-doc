@@ -6,6 +6,8 @@ SPHINXOPTS    =
 SPHINXBUILD   = sphinx-build
 SOURCEDIR     = source
 BUILDDIR      = build
+PDFBUILDDIR   = /tmp
+PDF           = qubinode/manual.pdf
 
 # Put it first so that "make" without argument is like "make help".
 help:
